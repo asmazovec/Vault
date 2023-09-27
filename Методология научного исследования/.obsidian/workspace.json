@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "fa6694670bb39523",
+    "type": "split",
+    "children": [
+      {
+        "id": "5243d1566bd77c20",
+        "type": "tabs",
+        "dimension": 49.38366718027735,
+        "children": [
+          {
+            "id": "ab853d7af14b868a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            },
+            "group": "6f9817a26cc1da63"
+          }
+        ]
+      },
+      {
+        "id": "36c5e79d9bbe54b6",
+        "type": "tabs",
+        "dimension": 50.61633281972265,
+        "children": [
+          {
+            "id": "db999bd53d0fcf7c",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Состав теории.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.6666666666666666,
+                  "close": true
+                }
+              }
+            },
+            "group": "6f9817a26cc1da63"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "914d798f142d2da5",
+    "type": "split",
+    "children": [
+      {
+        "id": "431cf2da76c2133f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee7967321cd7f1fd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "80aca7945f19be4d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "146d26f961bcfd29",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 258.5086555480957
+  },
+  "right": {
+    "id": "45bfd6b972a26867",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d124fd9742bf5be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49985eebefd8e7d0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4e73802b8cb67d28",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1bc2c2c61421a3ae",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f18311c2755d8ad3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "ea0f0ffd168b7122",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 263.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "ab853d7af14b868a",
+  "lastOpenFiles": [
+    "Состав теории.md",
+    "Концепция.md",
+    "Принцип.md",
+    "Термин.md",
+    "Определение.md",
+    "Неявное определение.md",
+    "Явное определение.md",
+    "Закон.md",
+    "Суждение.md",
+    "Аксиома.md",
+    "Наука.md",
+    "Зачем нужна наука.md",
+    "Теория.md",
+    "Философия.md",
+    "Классификация.md",
+    "Классификация научных исследований.md",
+    "Зачем нам классифицировать.md",
+    "Методология.md",
+    "Состав науки.md",
+    "Научное исследование.md",
+    "Методология научных исследований.md",
+    "Научное знание.md",
+    "Научное познание.md",
+    "Основные понятия.md",
+    "Подборка статей по теме \"Современные подходы к разработке геоинформационных систем\".pdf",
+    "Проект.md",
+    "Современные подходы к разработке геоинформационных систем/AN EFFECTIVE FRAMEWORK FOR DISTRIBUTED GEOSPATIAL QUERY PROCESSING IN GRIDS.md",
+    "{ISSUE 1} Повысить проходимость, доходность и скорость обслуживания.pdf",
+    "Без названия",
+    "Современные подходы к разработке геоинформационных систем",
+    "Микросервисная архитектура",
+    "Без названия.canvas"
+  ]
+}

@@ -1,0 +1,156 @@
+<mxfile host="Electron" modified="2023-09-23T08:48:26.866Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.3.7 Chrome/112.0.5615.204 Electron/24.5.0 Safari/537.36" etag="8gX7csuJWK9ldm6H83t3" version="21.3.7" type="device">
+  <diagram name="Страница 1" id="0tc8vGwd46hD_Lixa8Qg">
+    <mxGraphModel dx="989" dy="579" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EjHCc0xno-UUgSn_iuz0-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EjHCc0xno-UUgSn_iuz0-1" target="EjHCc0xno-UUgSn_iuz0-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="290" />
+              <mxPoint x="210" y="415" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EjHCc0xno-UUgSn_iuz0-1" value="Риск изменения цены на нефть" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EjHCc0xno-UUgSn_iuz0-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EjHCc0xno-UUgSn_iuz0-2" target="EjHCc0xno-UUgSn_iuz0-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EjHCc0xno-UUgSn_iuz0-2" value="Риск изменеия цены на металл" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EjHCc0xno-UUgSn_iuz0-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EjHCc0xno-UUgSn_iuz0-3" target="EjHCc0xno-UUgSn_iuz0-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EjHCc0xno-UUgSn_iuz0-3" value="Риск изменения цены на уголь" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EjHCc0xno-UUgSn_iuz0-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EjHCc0xno-UUgSn_iuz0-4" target="EjHCc0xno-UUgSn_iuz0-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="530" />
+              <mxPoint x="210" y="415" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EjHCc0xno-UUgSn_iuz0-4" value="Риск изменения цены на зерно" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EjHCc0xno-UUgSn_iuz0-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EjHCc0xno-UUgSn_iuz0-5" target="EjHCc0xno-UUgSn_iuz0-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="415" />
+              <mxPoint x="370" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EjHCc0xno-UUgSn_iuz0-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EjHCc0xno-UUgSn_iuz0-5" target="EjHCc0xno-UUgSn_iuz0-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EjHCc0xno-UUgSn_iuz0-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EjHCc0xno-UUgSn_iuz0-5" target="EjHCc0xno-UUgSn_iuz0-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EjHCc0xno-UUgSn_iuz0-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EjHCc0xno-UUgSn_iuz0-5" target="EjHCc0xno-UUgSn_iuz0-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="415" />
+              <mxPoint x="370" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EjHCc0xno-UUgSn_iuz0-5" value="Риск дефицита / профицита консолидированного федерального бюджета" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="360" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="EjHCc0xno-UUgSn_iuz0-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EjHCc0xno-UUgSn_iuz0-6" target="EjHCc0xno-UUgSn_iuz0-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="530" y="290" />
+              <mxPoint x="530" y="415" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EjHCc0xno-UUgSn_iuz0-6" value="Риск изменения денежно-кредитной политики" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EjHCc0xno-UUgSn_iuz0-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EjHCc0xno-UUgSn_iuz0-7" target="EjHCc0xno-UUgSn_iuz0-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EjHCc0xno-UUgSn_iuz0-7" value="Риск изменения курса национальной валюты" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EjHCc0xno-UUgSn_iuz0-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EjHCc0xno-UUgSn_iuz0-8" target="EjHCc0xno-UUgSn_iuz0-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EjHCc0xno-UUgSn_iuz0-8" value="Риск изменения государтсвенного долга" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EjHCc0xno-UUgSn_iuz0-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EjHCc0xno-UUgSn_iuz0-9" target="EjHCc0xno-UUgSn_iuz0-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="530" y="530" />
+              <mxPoint x="530" y="415" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EjHCc0xno-UUgSn_iuz0-9" value="Риск изменения ФЗ о федеральном бюджете" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EjHCc0xno-UUgSn_iuz0-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EjHCc0xno-UUgSn_iuz0-10" target="EjHCc0xno-UUgSn_iuz0-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="690" y="415" />
+              <mxPoint x="690" y="253" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EjHCc0xno-UUgSn_iuz0-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EjHCc0xno-UUgSn_iuz0-10" target="EjHCc0xno-UUgSn_iuz0-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="690" y="415" />
+              <mxPoint x="690" y="333" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EjHCc0xno-UUgSn_iuz0-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EjHCc0xno-UUgSn_iuz0-10" target="EjHCc0xno-UUgSn_iuz0-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EjHCc0xno-UUgSn_iuz0-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EjHCc0xno-UUgSn_iuz0-10" target="EjHCc0xno-UUgSn_iuz0-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="690" y="415" />
+              <mxPoint x="690" y="493" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EjHCc0xno-UUgSn_iuz0-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EjHCc0xno-UUgSn_iuz0-10" target="EjHCc0xno-UUgSn_iuz0-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="690" y="415" />
+              <mxPoint x="690" y="577" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EjHCc0xno-UUgSn_iuz0-10" value="Риск изменения темпов инфляции" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="385" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EjHCc0xno-UUgSn_iuz0-11" value="Риск изменения темпов экономического роста (ВВП)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="707" y="222.75" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EjHCc0xno-UUgSn_iuz0-12" value="Риск изменения уровня жизни населения" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="707" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EjHCc0xno-UUgSn_iuz0-13" value="Риск изменения фондовых индексов" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="707" y="385" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EjHCc0xno-UUgSn_iuz0-14" value="Риск дефолта" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="707" y="462.75" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EjHCc0xno-UUgSn_iuz0-15" value="Риск экономичского кризиса" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="707" y="547.25" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

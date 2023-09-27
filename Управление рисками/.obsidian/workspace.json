@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "bc7a9c52b8ac60b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a4c1d422a744b40",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4ed438bcc180b2c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "520453386e01151c",
+    "type": "split",
+    "children": [
+      {
+        "id": "36059ddc4bce3467",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d6cfd69fe67e43d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cfc2dfc64a6f5a47",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "562b7ca107636fe5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 349.5026054382324
+  },
+  "right": {
+    "id": "8307964fb6871980",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0aebe29789ebfb0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8259de43fb764dd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ce90dcec35241734",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5fd097aa9a7e13d4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "078bed197af5f003",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "webpage-html-export:Export Vault to HTML": false
+    }
+  },
+  "active": "e4ed438bcc180b2c",
+  "lastOpenFiles": [
+    "Управление рисками.md",
+    "Структура управления рисками.md",
+    "Структура риска.md",
+    "Стратегии управления риском.md",
+    "Риск-аппетит.md",
+    "Риск.md",
+    "Проблема.md",
+    "Принятые стандарты.md",
+    "Основные понятия.md",
+    "Классификация рисков.md",
+    "Группы рисков IT проектов.md",
+    "Возможность.md",
+    "Без названия.canvas",
+    "Изображения/Пример - иерархия экономических рисков.png",
+    "Изображения/Пример - экономические риски.png",
+    "Проблемы с рисками.md",
+    "Изображения",
+    "Pasted image 20230923155130 1.png",
+    "fd.md",
+    "().md",
+    "Экономические риски.drawio"
+  ]
+}
